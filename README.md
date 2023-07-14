@@ -7,7 +7,7 @@ Fake Discord token grabber that is, like my other projects, free and open source
 
 **Download:**
 Download all the files except for the 'README.md' file, unless you really want to (I'm not going to stop you)
-<br />
+<br>
 **How to use:**
 1. Put your token in the 'token.txt' file and open the 'start.bat' file
 2. Turn on developer mode in settings under the 'Advanced' category
