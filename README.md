@@ -14,4 +14,4 @@ Download all the files except for the 'README.md' file, unless you really want t
 3. Get the user ID of your target (search up how)
 4. Use the command '!grab [userID]' in a server with the bot added and the bot will send you an embed with a fake token amongst other things  <br /> return
    
-rahh
+Probably won't update this, my main project will be 'JOHAN NUKER'
