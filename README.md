@@ -25,6 +25,6 @@ Download the 'config.txt' file, the 'start.bat' file, and finally the 'tokenGrab
 
 **More:** <br />
 * You can contact me on Discord and Telegram at J0HAN#6805 and @johan_real respectively
-* Probably won't update this, my main project will be 'JOHAN NUKER' <br />
+* Probably won't update this, my main project will be 'JOHAN NUKER' (https://github.com/ngs-official/johan-nuker) <br />
 
 *Your prefix may not be '!', instead use whatever prefix you put in the 'config.txt' file's second line
