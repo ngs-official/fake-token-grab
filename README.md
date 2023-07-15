@@ -1,5 +1,6 @@
 # Discord Fake Token Grabber
-Fake Discord token grabber that is, like my other projects, free and open source for anyone to use
+Fake Discord token grabber that is, like my other projects, free and open source for anyone to use. ![Screenshot 2023-07-14 235853](https://github.com/ngs-official/fake-token-grab/assets/123272327/a8022720-74c0-4b6b-899c-583741f6d329)
+
 
 **Requirements:**
 * Python with standard libaries (https://www.python.org/downloads/)
