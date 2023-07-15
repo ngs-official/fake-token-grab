@@ -63,7 +63,7 @@ async def on_message(message):
                         target_creationDate = target.created_at
                         target_dateCreated = str(target_creationDate).split(" ")
                         target_flags = target.public_flags.all()
-                        if not target_flags == "[]":
+                        if not str(target_flags) == "[]":
                             badges = 0
                             for flag in target_flags:
                                 if badges > 0:
