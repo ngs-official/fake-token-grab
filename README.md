@@ -21,7 +21,10 @@ Download the 'config.txt' file, the 'start.bat' file, and finally the 'tokenGrab
 * After creating a new application, click on the 'Bot' category in the bar on the left
 * Scroll down and enable all the privilegied gateway intents, which are the last three toggles (presence intent, server members intent, and message content intent)
 * Scroll back up and click on 'Reset Token' to get your bot's token
-* You now have a working bot, and you can put the token in the 'config.txt' file as mentioned in the 'How to use' section, then continue to follow everything there   <br />
+* You now have a working bot, and you can put the token in the 'config.txt' file as mentioned in the 'How to use' section, then continue to follow everything there
+
+**More:** <br />
+You can contact me on Discord and Telegram at J0HAN#6805 and @johan_real respectively <br />
    
 Probably won't update this, my main project will be 'JOHAN NUKER' <br />
 
