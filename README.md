@@ -6,7 +6,7 @@ Fake Discord token grabber that is, like my other projects, free and open source
 * Discord.py (https://pypi.org/project/discord.py/)
 
 **Download:**
-Download all the files except for the 'README.md' file, unless you really want to (I'm not going to stop you)
+Download the latest release under the 'Releases' category in the bar on the right
 
 **How to use:**
 1. Put your token in the first line of the 'config.txt' file and then your preferred prefix in the second
