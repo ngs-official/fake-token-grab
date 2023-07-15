@@ -7,7 +7,7 @@ Fake Discord token grabber that is, like my other projects, free and open source
 * Discord.py (https://pypi.org/project/discord.py/)
 
 **Download:**
-Download the 'config.txt' file, the 'start.bat' file, and finally the 'tokenGrabber.py' file
+Download the 'config.txt' file, the 'start.bat' file, and finally the 'main.py' file
 
 **How to use:**
 1. Put your bot's token in the first line of the 'config.txt' file and then your preferred prefix in the second (Don't know how? Look at the 'Other' section below)
