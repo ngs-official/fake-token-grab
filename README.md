@@ -13,8 +13,8 @@ Download all the files except for the 'README.md' file, unless you really want t
 2. Open the 'start.bat' file to start up the bot
 3. Turn on developer mode in settings under the 'Advanced' category
 4. Get the user ID of your target (search up how)
-5. Use the command '!grab [userID]'* in a server with the bot added and the bot will send you an embed with a fake token amongst other things  <br /> return
+5. Use the command '!grab [userID]'* in a server with the bot added and the bot will send you an embed with a fake token amongst other things  <br />
    
-Probably won't update this, my main project will be 'JOHAN NUKER' <br /> return
+Probably won't update this, my main project will be 'JOHAN NUKER' <br />
 
 *Your prefix may not be '!', instead use whatever prefix you put in the 'config.txt' file's second line
