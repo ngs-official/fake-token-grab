@@ -17,15 +17,14 @@ Download the 'config.txt' file, the 'start.bat' file, and finally the 'tokenGrab
 5. Use the command '!grab [userID]' in a server with the bot added and the bot will send you an embed with a fake token amongst other things* 
 
 **Other:**
-* To make a bot, go to https://discord.com/developers/applications and create an application
-* After creating a new application, click on the 'Bot' category in the bar on the left
-* Scroll down and enable all the privilegied gateway intents, which are the last three toggles (presence intent, server members intent, and message content intent)
-* Scroll back up and click on 'Reset Token' to get your bot's token
-* You now have a working bot, and you can put the token in the 'config.txt' file as mentioned in the 'How to use' section, then continue to follow everything there
+1. To make a bot, go to https://discord.com/developers/applications and create an application
+2. After creating a new application, click on the 'Bot' category in the bar on the left
+3. Scroll down and enable all the privilegied gateway intents, which are the last three toggles (presence intent, server members intent, and message content intent)
+4. Scroll back up and click on 'Reset Token' to get your bot's token
+5. You now have a working bot, and you can put the token in the 'config.txt' file as mentioned in the 'How to use' section, then continue to follow everything there
 
 **More:** <br />
-You can contact me on Discord and Telegram at J0HAN#6805 and @johan_real respectively <br />
-   
-Probably won't update this, my main project will be 'JOHAN NUKER' <br />
+* You can contact me on Discord and Telegram at J0HAN#6805 and @johan_real respectively
+* Probably won't update this, my main project will be 'JOHAN NUKER' <br />
 
 *Your prefix may not be '!', instead use whatever prefix you put in the 'config.txt' file's second line
