@@ -24,7 +24,7 @@ Download the 'config.txt' file, the 'start.bat' file, and finally the 'main.py' 
 5. You now have a working bot, and you can put the token in the 'config.txt' file as mentioned in the 'How to use' section, then continue to follow everything there
 
 **More:** <br />
-* You can contact me on Discord and Telegram at J0HAN#6805 and @johan_real respectively
+* You can contact me on Discord at 'ngs_official', don't feel shy!
 * How does this work? Well basically the start of a user's Discord token is their user ID in Base64, and the rest of the token is just randomly generated. When users check their token they will see that it starts the same as the token you 'grabbed' and will get creeped out (as I highly doubt they'll look at the whole thing)
 * Oh yeah make sure all the files are in one folder with no other files in it
 * Probably won't update this, my main project will be 'JOHAN NUKER' (https://github.com/ngs-official/johan-nuker) <br />
